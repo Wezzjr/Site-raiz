@@ -1,0 +1,21 @@
+
+#conteudo {
+    background-color: palevioletred;
+    width: 100%;
+    height: 100%;
+    position: fixed;
+    top: 0;
+    left: 0;
+    padding: 10px;
+    text-align: center;
+    }
+    .btn{
+
+    background-color: black;
+    color: white;
+    border: none;
+    padding: 10px;
+    width: 80px;
+    border-radius: 10px;
+}
+
